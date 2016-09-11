@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay id="0">
+	<name>negev_Rikaa.png</name>
+	<Snippet maxLines="0"></Snippet>
+	<drawOrder>1000</drawOrder>
+	<Icon>
+		<href>Layer0.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>31.50201908408721</north>
+		<south>30.93194449188118</south>
+		<east>35.42421801665191</east>
+		<west>34.48713312420911</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
